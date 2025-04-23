@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>API-LAN</name>
+    </assembly>
+    <members>
+        <member name="M:API_LAN.Controllers.ToDoController.GetToDoList">
+            <summary>
+            Lista todos os TODO criados.
+            </summary>
+        </member>
+        <member name="M:API_LAN.Controllers.ToDoController.GetToDoItems(System.Int32)">
+            <summary>
+            Lista todos os itens de um TODO especificado por ID.
+            </summary>
+        </member>
+        <member name="M:API_LAN.Controllers.ToDoController.CreateNewToDo(API_LAN.Models.ToDo)">
+            <summary>
+            cria um novo TODO.
+            </summary>
+        </member>
+    </members>
+</doc>

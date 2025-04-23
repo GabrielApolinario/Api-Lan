@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "J3nSoLiqccu4LFLSJxcyRgM2Dk/ipqBdFQmuALRE3wc=",
+  "Source": "API-LAN",
+  "BasePath": "_content/API-LAN",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
